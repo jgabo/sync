@@ -1,4 +1,5 @@
 sync
 ====
 
-sincronizo de bases SqLite - Velneo
+Sincronizacion de bases de datos entre SqLite - Velneo
+(jgabo)
