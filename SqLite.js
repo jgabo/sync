@@ -7,6 +7,7 @@ var SqLite={};
  SqLite.conex=null;
  SqLite.status=false;
  
+ 
  SqLite.ini=function(name,version,description,size)
  {
 	SqLite.param.name=name;
